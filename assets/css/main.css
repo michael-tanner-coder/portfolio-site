@@ -2924,6 +2924,10 @@ input, select, textarea {
 		color: rgba(0, 0, 0, 0.75);
 	}
 
+	section.alt {
+		background-color: #494D7E;
+	}
+
 /* Table */
 
 	.table-wrapper {
