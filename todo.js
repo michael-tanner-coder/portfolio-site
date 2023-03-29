@@ -8,4 +8,3 @@
 // TODO: write about you (goals, skills, experience)
 // TODO: make project pages explaining your contributions
 // TODO: give the page more personality!
-// TODO: try limiting the color palette a little more
