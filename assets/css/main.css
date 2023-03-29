@@ -194,7 +194,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
-		letter-spacing: -0.05em;
+		letter-spacing: 0.05em;
 		margin: 0 0 1rem 0;
 	}
 
@@ -2925,7 +2925,9 @@ input, select, textarea {
 	}
 
 	section.alt {
-		background-color: #494D7E;
+		background-color: #494C67;
+		border-top: 1px white solid;
+		border-bottom: 1px white solid;
 	}
 
 /* Table */
