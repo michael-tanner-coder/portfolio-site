@@ -2925,10 +2925,16 @@ input, select, textarea {
 	}
 
 	section.alt {
-		background-color: #494C67;
+		background-color: #F0EFF4;
 		border-top: 1px white solid;
 		border-bottom: 1px white solid;
+		color: #22233a !important;
 	}
+	
+	section.alt h2 {
+		color: #22233a !important;
+        border-bottom: none;
+    }
 
 /* Table */
 
