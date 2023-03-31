@@ -2,13 +2,6 @@
 // TODO: make high quality gifs for each game
 // TODO: test contact methods
 
-// TODO: showcase skillsets / what you bring
-// TODO: -- rapid prototyping
-// TODO: -- Gameplay Programming
-// TODO: -- 2D Art
-// TODO: -- UI Design and Development
-// TODO: -- leadership
-// TODO: -- production planning
 
 // TODO: get a new photo of yourself
 // TODO: write about you (goals, skills, experience)
