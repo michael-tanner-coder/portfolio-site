@@ -2931,7 +2931,7 @@ input, select, textarea {
 		color: #22233a !important;
 	}
 	
-	section.alt h2 {
+	section.alt h2, section.alt h3 {
 		color: #22233a !important;
         border-bottom: none;
     }
