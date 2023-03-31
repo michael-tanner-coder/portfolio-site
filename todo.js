@@ -1,11 +1,9 @@
 // BASE
 // TODO: make high quality gifs for each game
 // TODO: test contact methods
-
-
-// TODO: get a new photo of yourself
 // TODO: write about you (goals, skills, experience)
 // TODO: give the page more personality!
+// TODO: get a new photo of yourself
 
 // EXTRA
 // TODO: make project pages explaining your contributions
