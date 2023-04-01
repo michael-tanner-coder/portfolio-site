@@ -1,5 +1,4 @@
 // BASE
-// TODO: make high quality gifs for each game
 // TODO: test contact methods
 // TODO: write about you (goals, skills, experience)
 // TODO: give the page more personality!
