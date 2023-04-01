@@ -1,6 +1,5 @@
 // BASE
 // TODO: test contact methods
-// TODO: write about you (goals, skills, experience)
 // TODO: give the page more personality!
 // TODO: get a new photo of yourself
 
